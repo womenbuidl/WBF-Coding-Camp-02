@@ -18,5 +18,7 @@
 
 | 板块 | 说明 |
 | --- | --- |
-|1️⃣ [课程资料](https://github.com/womenbuidl/WBF-Coding-Camp-02/issues/1) | 【coding学习】|
-|2️⃣ [吐槽大会](https://github.com/womenbuidl/WBF-Coding-Camp-02/discussions/2) | 【WBF吐吐槽】|
+|1️⃣ [课程资料](https://github.com/womenbuidl/WBF-Coding-Camp-02/issues/1) | 【Camp学习】|
+|2️⃣ [半小时挑战赛](https://github.com/womenbuidl/WBF-Coding-Camp-02/issues/4) | 【Camp作业】|
+|3️⃣ [问题答疑](https://github.com/womenbuidl/WBF-Coding-Camp-02/discussions/3) | 【WBF Q&A】|
+|4️⃣ [吐槽大会](https://github.com/womenbuidl/WBF-Coding-Camp-02/discussions/2) | 【WBF吐吐槽】|
