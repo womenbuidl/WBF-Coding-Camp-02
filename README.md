@@ -18,5 +18,5 @@
 
 | 板块 | 说明 |
 | --- | --- |
-|1️⃣ [课程资料]() | 【coding学习】|
+|1️⃣ [课程资料](https://github.com/womenbuidl/WBF-Coding-Camp-02/issues/1) | 【coding学习】|
 
