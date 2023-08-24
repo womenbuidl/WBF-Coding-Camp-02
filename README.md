@@ -19,4 +19,4 @@
 | 板块 | 说明 |
 | --- | --- |
 |1️⃣ [课程资料](https://github.com/womenbuidl/WBF-Coding-Camp-02/issues/1) | 【coding学习】|
-
+|2️⃣ [吐槽大会](https://github.com/womenbuidl/WBF-Coding-Camp-02/discussions/2) | 【WBF吐吐槽】|
