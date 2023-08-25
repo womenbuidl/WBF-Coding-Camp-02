@@ -13,6 +13,7 @@
 > 点击蓝字即可跳转查看，任何有用的网站、经验贴、工具等资源链接都可以po到对应楼里
 > Disscussion板块姊妹自己写的分享帖 包括但不限于 学习经验 | 自我探索与成长，
 
+🔥🔥🔥[黑客松组队](https://github.com/womenbuidl/WBF-Coding-Camp-02/issues/1) | 【组队脑爆】|🔥🔥🔥
 
 ## 目录
 
